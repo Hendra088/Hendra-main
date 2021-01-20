@@ -1,5 +1,5 @@
-# 🤖RIDHO BOT🤖
-BOT WHATSAPP TERMUX ONLY BY RIDHO SETIAWAN
+# 🤖HENDRA BOT🤖
+BOT WHATSAPP TERMUX ONLY BY HENDRA MAULAN
 
 #SISTEM SEDANG DI SEWA
 
@@ -31,7 +31,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 
 ## Features
 
-| AR15BOT      |                   Feature        |
+| HENDRABOT      |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
